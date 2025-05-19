@@ -2,3 +2,4 @@
 "PFUS-01"
 "UC-versionamento"
 "Água-viva"
+"O versionamento é um conceito fundamental no desenvolvimento de software e na gestão de projetos. Ele se refere ao processo de atribuir números ou rótulos a diferentes versões de um produto, documento ou sistema"
